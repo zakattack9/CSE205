@@ -1,0 +1,4 @@
+This programm reads an integer from a keybboard,
+ and prints it out on the display screen.
+make sure that you get the exact same output as the expected one.
+The read number is: 0.
